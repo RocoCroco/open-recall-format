@@ -1,0 +1,78 @@
+{
+  "orf_version": "0.1",
+  "id": "eu-safety-gate:SR/02783/26",
+  "source": {
+    "authority": "EU-SAFETY-GATE",
+    "agency": "NL",
+    "id": "SR/02783/26",
+    "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119103?lang=en",
+    "retrieved": "2026-10-03T12:00:00Z",
+    "licence": "CC-BY-4.0",
+    "attribution": "Source: European Commission, Safety Gate (ec.europa.eu/safety-gate-alerts). Reuse authorised under Commission Decision 2011/833/EU (CC BY 4.0); the record was converted to the Open Recall Format."
+  },
+  "jurisdictions": [
+    "EU"
+  ],
+  "language": "en",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "category": "consumer_product",
+  "title": "Magnetic toy (Magnetix): choking, injuries risk",
+  "products": [
+    {
+      "name": "Magnetic toy",
+      "brands": [
+        "Magnetix"
+      ],
+      "description": "The Game That Connects Magnet toy consisting of 24 magnets, a storage bag, and a string to indicate the playing field. Country of origin: People's Republic of China.",
+      "source_category": "Toys",
+      "scope": "listed_units",
+      "identification": [
+        {
+          "models": [
+            "601-1004"
+          ],
+          "gtins": [
+            "8710124155013"
+          ],
+          "lots": [
+            "I0-2501515"
+          ],
+          "basis": "structured"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://ec.europa.eu/safety-gate-alerts/public/api/notification/image/11235023"
+        },
+        {
+          "url": "https://ec.europa.eu/safety-gate-alerts/public/api/notification/image/11235022"
+        }
+      ]
+    }
+  ],
+  "hazards": [
+    {
+      "type": "choking",
+      "source_value": "riskType.choking"
+    },
+    {
+      "type": "injuries",
+      "source_value": "riskType.injuries"
+    }
+  ],
+  "hazard_text": "The toy consists of small magnets with high magnetic flux (measured value up to 406 kg²mm²). If a child swallows them, they could attract one another causing intestinal blockage or perforation. Moreover, the magnets are small parts. A child can put them in the mouth and choke. The product does not comply with the requirements of the Toy Safety Directive nor with the European standard EN 71-1.",
+  "severity": {
+    "level": "serious",
+    "source_value": "A12"
+  },
+  "actions": [
+    "stop_using"
+  ],
+  "remedies": [],
+  "instructions": "Recall of product from consumers (voluntary)",
+  "contact": {
+    "url": "https://www.ottosimon.nl/nl-nl/veiligheidswaarschuwing"
+  },
+  "summary": "Magnetix Magnetic toy is recalled because of a risk of choking and injury. Stop using it."
+}

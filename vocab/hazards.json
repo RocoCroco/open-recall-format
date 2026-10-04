@@ -1,0 +1,480 @@
+{
+  "vocabulary": "hazards",
+  "orf_version": "0.1",
+  "description": "Hazard types. `keywords` are whole words or phrases (case-insensitive) that converters look for in the authority's text; `source_values` are the authority's own codes. Based on the EU Safety Gate risk types, the UK OPSS categories and the hazards named in CPSC, NHTSA and FDA notices.",
+  "terms": {
+    "fire": {
+      "label": "Fire",
+      "keywords": {
+        "en": [
+          "fire",
+          "fires",
+          "flames",
+          "ignite",
+          "ignition",
+          "overheat",
+          "overheating",
+          "melt"
+        ],
+        "fr": [
+          "incendie",
+          "inflammation",
+          "surchauffe",
+          "feu"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.fire"
+        ]
+      }
+    },
+    "burns": {
+      "label": "Burns",
+      "keywords": {
+        "en": [
+          "burn",
+          "burns",
+          "scald",
+          "scalds",
+          "scalding"
+        ],
+        "fr": [
+          "brûlure",
+          "brûlures"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.burns"
+        ]
+      }
+    },
+    "electric_shock": {
+      "label": "Electric shock",
+      "keywords": {
+        "en": [
+          "electric shock",
+          "electrical shock",
+          "shock hazard",
+          "electrocution"
+        ],
+        "fr": [
+          "choc électrique",
+          "électrocution",
+          "électrisation"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.electric.shock"
+        ]
+      }
+    },
+    "explosion": {
+      "label": "Explosion",
+      "keywords": {
+        "en": [
+          "explode",
+          "explosion",
+          "explosions",
+          "burst",
+          "rupture"
+        ],
+        "fr": [
+          "explosion",
+          "déflagration",
+          "éclatement"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.explosion"
+        ]
+      }
+    },
+    "choking": {
+      "label": "Choking",
+      "keywords": {
+        "en": [
+          "choke",
+          "choking",
+          "small parts",
+          "swallow",
+          "swallowed",
+          "ingestion"
+        ],
+        "fr": [
+          "étouffement",
+          "petites pièces",
+          "ingestion"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.choking"
+        ]
+      }
+    },
+    "suffocation": {
+      "label": "Suffocation",
+      "keywords": {
+        "en": [
+          "suffocation",
+          "suffocate",
+          "asphyxia",
+          "asphyxiation"
+        ],
+        "fr": [
+          "suffocation",
+          "asphyxie"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.suffocation",
+          "riskType.asphyxiation"
+        ]
+      }
+    },
+    "strangulation": {
+      "label": "Strangulation",
+      "keywords": {
+        "en": [
+          "strangulation",
+          "strangle",
+          "strangling"
+        ],
+        "fr": [
+          "strangulation",
+          "étranglement"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.strangulation"
+        ]
+      }
+    },
+    "entrapment": {
+      "label": "Entrapment",
+      "keywords": {
+        "en": [
+          "entrapment",
+          "entrap",
+          "trapped"
+        ],
+        "fr": [
+          "coincement",
+          "piégeage"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.entrapment"
+        ]
+      }
+    },
+    "drowning": {
+      "label": "Drowning",
+      "keywords": {
+        "en": [
+          "drown",
+          "drowning"
+        ],
+        "fr": [
+          "noyade"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.drowning"
+        ]
+      }
+    },
+    "fall": {
+      "label": "Fall",
+      "keywords": {
+        "en": [
+          "fall hazard",
+          "falls",
+          "fall"
+        ],
+        "fr": [
+          "chute"
+        ]
+      },
+      "source_values": {}
+    },
+    "tip_over": {
+      "label": "Tip-over",
+      "keywords": {
+        "en": [
+          "tip over",
+          "tip-over",
+          "tipover",
+          "tip and fall"
+        ],
+        "fr": [
+          "basculement",
+          "renversement"
+        ]
+      },
+      "source_values": {}
+    },
+    "laceration": {
+      "label": "Cuts and lacerations",
+      "keywords": {
+        "en": [
+          "laceration",
+          "lacerations",
+          "cut",
+          "cuts"
+        ],
+        "fr": [
+          "coupure",
+          "coupures",
+          "lacération"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.cuts"
+        ]
+      }
+    },
+    "injuries": {
+      "label": "Injuries",
+      "keywords": {
+        "en": [
+          "injury hazard",
+          "impact hazard",
+          "crush",
+          "pinch"
+        ],
+        "fr": [
+          "blessure",
+          "blessures",
+          "écrasement",
+          "pincement"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.injuries"
+        ]
+      }
+    },
+    "crash": {
+      "label": "Crash",
+      "keywords": {
+        "en": [
+          "crash",
+          "collision",
+          "loss of vehicle control",
+          "loss of control"
+        ],
+        "fr": [
+          "accident",
+          "collision",
+          "perte de contrôle"
+        ]
+      },
+      "source_values": {}
+    },
+    "chemical": {
+      "label": "Chemical",
+      "keywords": {
+        "en": [
+          "chemical",
+          "lead content",
+          "lead paint",
+          "lead levels",
+          "lead limit",
+          "phthalate",
+          "phthalates",
+          "toxic",
+          "carcinogen",
+          "benzene",
+          "methanol",
+          "asbestos"
+        ],
+        "fr": [
+          "chimique",
+          "plomb",
+          "phtalate",
+          "phtalates",
+          "toxique",
+          "nickel"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.chemical"
+        ]
+      }
+    },
+    "poisoning": {
+      "label": "Poisoning",
+      "keywords": {
+        "en": [
+          "poisoning",
+          "poison",
+          "carbon monoxide"
+        ],
+        "fr": [
+          "intoxication",
+          "empoisonnement",
+          "monoxyde de carbone"
+        ]
+      },
+      "source_values": {}
+    },
+    "microbiological": {
+      "label": "Microbiological contamination",
+      "keywords": {
+        "en": [
+          "salmonella",
+          "listeria",
+          "e. coli",
+          "e.coli",
+          "botulism",
+          "clostridium",
+          "mold",
+          "mould",
+          "bacteria",
+          "bacterial",
+          "microbial",
+          "contamination with"
+        ],
+        "fr": [
+          "salmonelle",
+          "salmonella",
+          "listeria",
+          "e. coli",
+          "botulisme",
+          "moisissure",
+          "moisissures",
+          "bactérie"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.microbiological"
+        ]
+      }
+    },
+    "undeclared_allergen": {
+      "label": "Undeclared allergen",
+      "keywords": {
+        "en": [
+          "undeclared",
+          "allergen",
+          "allergens",
+          "allergic reaction"
+        ],
+        "fr": [
+          "allergène",
+          "allergènes",
+          "non déclaré",
+          "non déclarée",
+          "allergie"
+        ]
+      },
+      "source_values": {}
+    },
+    "foreign_material": {
+      "label": "Foreign material",
+      "keywords": {
+        "en": [
+          "foreign material",
+          "foreign matter",
+          "metal fragments",
+          "plastic pieces",
+          "glass pieces",
+          "extraneous material"
+        ],
+        "fr": [
+          "corps étranger",
+          "corps étrangers",
+          "morceaux de plastique",
+          "morceaux de verre",
+          "fragments métalliques"
+        ]
+      },
+      "source_values": {}
+    },
+    "damage_to_sight": {
+      "label": "Damage to sight",
+      "keywords": {
+        "en": [
+          "eye injury",
+          "eye injuries",
+          "damage to sight",
+          "vision loss"
+        ],
+        "fr": [
+          "lésions oculaires",
+          "vue"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.damage.to.sight"
+        ]
+      }
+    },
+    "damage_to_hearing": {
+      "label": "Damage to hearing",
+      "keywords": {
+        "en": [
+          "hearing damage",
+          "hearing loss",
+          "damage to hearing"
+        ],
+        "fr": [
+          "audition",
+          "perte auditive"
+        ]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.damage.to.hearing"
+        ]
+      }
+    },
+    "environment": {
+      "label": "Environment",
+      "keywords": {
+        "en": [],
+        "fr": []
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.environment"
+        ]
+      }
+    },
+    "health_risk": {
+      "label": "Other health risk",
+      "keywords": {
+        "en": ["undeclared fd&c", "undeclared color", "undeclared colour", "undeclared yellow", "undeclared red", "yellow #5", "yellow no. 5", "red no. 40", "subpotent", "superpotent", "lack of sterility", "sterility assurance"],
+        "fr": ["colorant non déclaré"]
+      },
+      "source_values": {
+        "EU-SAFETY-GATE": [
+          "riskType.health.risk.other",
+          "riskType.health.risk"
+        ]
+      }
+    },
+    "other": {
+      "label": "Other",
+      "keywords": {
+        "en": [],
+        "fr": []
+      },
+      "source_values": {}
+    }
+  }
+}

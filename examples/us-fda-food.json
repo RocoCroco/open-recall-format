@@ -1,0 +1,52 @@
+{
+  "orf_version": "0.1",
+  "id": "us-fda:99325",
+  "source": {
+    "authority": "US-FDA",
+    "id": "99325",
+    "url": "https://www.accessdata.fda.gov/scripts/ires/index.cfm?Event=99325",
+    "retrieved": "2026-10-03T12:00:00Z",
+    "licence": "CC0-1.0",
+    "attribution": "Source: U.S. Food and Drug Administration, openFDA (open.fda.gov). openFDA does not endorse this product."
+  },
+  "jurisdictions": [
+    "US"
+  ],
+  "language": "en",
+  "published": "2026-08-12",
+  "category": "food",
+  "title": "La Colonia Foods Llc recall: Products may be contaminated with Listeria monocytogenes.",
+  "products": [
+    {
+      "name": "Selectos Latinos Requeson Mexicano Mexican Cottage Cheese",
+      "brands": [],
+      "description": "Selectos Latinos Requeson Mexicano Mexican Cottage Cheese, Net Weight 16 oz, packed into retail-sized clear plastic containers. Keep refrigerated.",
+      "source_category": "Food",
+      "scope": "unknown",
+      "identification": [],
+      "sold": {
+        "where": "The recalled product was distributed to the following states: MD, VA"
+      }
+    }
+  ],
+  "hazards": [
+    {
+      "type": "microbiological",
+      "agent": "Listeria monocytogenes"
+    }
+  ],
+  "hazard_text": "Products may be contaminated with Listeria monocytogenes.",
+  "severity": {
+    "level": "serious",
+    "source_value": "Class I"
+  },
+  "actions": [],
+  "remedies": [],
+  "firms": [
+    {
+      "name": "La Colonia Foods Llc",
+      "role": "recalling_firm"
+    }
+  ],
+  "summary": "Selectos Latinos Requeson Mexicano Mexican Cottage Cheese is recalled because it may be contaminated with Listeria monocytogenes."
+}

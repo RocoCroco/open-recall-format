@@ -1,0 +1,47 @@
+{
+  "orf_version": "0.1",
+  "id": "ca-rsa:82687",
+  "source": {
+    "authority": "CA-RSA",
+    "agency": "CFIA",
+    "id": "82687",
+    "url": "https://recalls-rappels.canada.ca/en/alert-recall/smarter-snacks-brand-vegan-protein-puff-chili-lime-flavored-recalled-due-undeclared-0",
+    "retrieved": "2026-10-03T12:00:00Z",
+    "licence": "OGL-Canada-2.0",
+    "attribution": "Contains information licensed under the Open Government Licence - Canada."
+  },
+  "jurisdictions": [
+    "CA"
+  ],
+  "language": "en",
+  "published": "2026-09-29",
+  "updated": "2026-09-29",
+  "category": "food",
+  "title": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
+  "products": [
+    {
+      "name": "Vegan Protein Puff Chili & Lime Flavored",
+      "brands": [
+        "Smarter Snacks"
+      ],
+      "source_category": "Candy, confectionary, snacks and sweeteners",
+      "scope": "unknown",
+      "identification": []
+    }
+  ],
+  "hazards": [
+    {
+      "type": "undeclared_allergen",
+      "allergen": "milk"
+    }
+  ],
+  "hazard_text": "Milk",
+  "severity": {
+    "level": "serious",
+    "source_value": "Class 1"
+  },
+  "actions": [],
+  "remedies": [],
+  "instructions": "Check to see if you have recalled productsDo not consume recalled products to which you are allergic or sensitive as they may cause a serious or life-threatening reactionDo not serve, use, sell or distribute recalled productsRecalled products should be thrown out or returned to the location where they were purchasedLearn more:Learn more about common food allergiesSign up for recall notifications by email and follow us on social mediaView our detailed explanation of the food safety investigation and recall processReport a food safety or labelling concern",
+  "summary": "Smarter Snacks Vegan Protein Puff Chili & Lime Flavored is recalled because it contains undeclared milk."
+}

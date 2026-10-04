@@ -1,0 +1,26 @@
+Open Recall Format
+Copyright 2026 Roc Cutal
+
+The code, the JSON Schema, the JSON-LD context and the vocabularies are licensed under the Apache License,
+Version 2.0 (LICENSE). The specification and documentation prose (spec/ and docs/) are licensed under Creative
+Commons Attribution 4.0 International (spec/LICENSE).
+
+The test fixtures (fixtures/) are unmodified samples of public recall data, redistributed under the terms of
+their publishers:
+
+- U.S. Consumer Product Safety Commission (cpsc.gov) and U.S. National Highway Traffic Safety Administration
+  (nhtsa.gov): works of the U.S. federal government, not subject to copyright in the United States.
+- U.S. Food and Drug Administration, openFDA (open.fda.gov): public domain, CC0 1.0 Universal dedication.
+  openFDA does not endorse this project.
+- Government of Canada, Recalls and Safety Alerts: contains information licensed under the Open Government
+  Licence - Canada (https://open.canada.ca/en/open-government-licence-canada).
+- European Commission, Safety Gate (ec.europa.eu/safety-gate-alerts): reuse authorised under Commission Decision
+  2011/833/EU, Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/).
+  Product photos are not included; records only reference them by address.
+- RappelConso, Ministères économiques et financiers (France): Licence Ouverte / Open Licence 2.0
+  (https://www.etalab.gouv.fr/licence-ouverte-open-licence/).
+- UK Office for Product Safety and Standards (gov.uk): contains public sector information licensed under the
+  Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+
+Records converted to the Open Recall Format carry the same attribution in `source.attribution` and the licence
+identifier in `source.licence`.

@@ -1,0 +1,109 @@
+{
+  "orf_version": "0.1",
+  "id": "fr-rappelconso:2026-10-0018",
+  "source": {
+    "authority": "FR-RAPPELCONSO",
+    "id": "2026-10-0018",
+    "url": "https://rappel.conso.gouv.fr/fiche-rappel/23689/interne",
+    "retrieved": "2026-10-03T12:00:00Z",
+    "licence": "etalab-2.0",
+    "attribution": "Source: RappelConso, Ministères économiques et financiers (Licence Ouverte / Open Licence 2.0); converted to the Open Recall Format."
+  },
+  "jurisdictions": [
+    "FR"
+  ],
+  "language": "fr",
+  "published": "2026-10-02",
+  "category": "food",
+  "title": "carrefour le marché - haché de veau façon bouchère: suspicion de présence de salmonelle",
+  "products": [
+    {
+      "name": "haché de veau façon bouchère",
+      "brands": [
+        "carrefour le marché"
+      ],
+      "description": "haché de veau façon bouchère carrefour le marché 2x100g - 2x100g",
+      "source_category": "alimentation / viandes",
+      "scope": "listed_units",
+      "identification": [
+        {
+          "gtins": [
+            "3245414264410"
+          ],
+          "lots": [
+            "73728848"
+          ],
+          "date_mark": {
+            "kind": "use_by",
+            "from": "2026-10-07",
+            "to": "2026-10-07"
+          },
+          "basis": "structured"
+        },
+        {
+          "gtins": [
+            "3245414264410"
+          ],
+          "lots": [
+            "73728848"
+          ],
+          "date_mark": {
+            "kind": "use_by",
+            "from": "2026-10-08",
+            "to": "2026-10-08"
+          },
+          "basis": "structured"
+        },
+        {
+          "gtins": [
+            "3245414264410"
+          ],
+          "lots": [
+            "73728848"
+          ],
+          "date_mark": {
+            "kind": "use_by",
+            "from": "2026-10-09",
+            "to": "2026-10-09"
+          },
+          "basis": "structured"
+        }
+      ],
+      "sold": {
+        "where": "carrefour - france entière",
+        "from": "2026-09-29",
+        "to": "2026-10-02"
+      },
+      "images": [
+        {
+          "url": "https://rappel.conso.gouv.fr/image/18169623-18be-4222-9861-ae3207c88129.jpg"
+        }
+      ]
+    }
+  ],
+  "hazards": [
+    {
+      "type": "microbiological",
+      "agent": "Salmonella"
+    }
+  ],
+  "hazard_text": "suspicion de présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+  "severity": {
+    "level": "unknown"
+  },
+  "actions": [
+    "do_not_eat",
+    "dispose",
+    "return_to_store",
+    "contact_firm"
+  ],
+  "remedies": [
+    "refund"
+  ],
+  "instructions": "ne plus consommer; rapporter le produit au point de vente; contacter le service consommateur; détruire le produit",
+  "contact": {
+    "phone": "0805908070",
+    "text": "appel du lundi au samedi de 9h à 19h (appel non surtaxé)"
+  },
+  "summary": "carrefour le marché haché de veau façon bouchère is recalled because it may be contaminated with Salmonella. Don't eat it and throw it away. The remedy is a refund."
+}

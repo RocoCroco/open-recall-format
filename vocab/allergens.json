@@ -1,0 +1,22 @@
+{
+  "vocabulary": "allergens",
+  "orf_version": "0.1",
+  "description": "Food allergens for undeclared-allergen recalls. `us_major` marks the nine major food allergens of the US FALCPA as amended by the FASTER Act (2021); `eu_annex_ii` marks the 14 allergens of Annex II of Regulation (EU) No 1169/2011. Keywords are whole words or phrases, case-insensitive.",
+  "terms": {
+    "milk": { "label": "Milk", "us_major": true, "eu_annex_ii": true, "keywords": { "en": ["milk", "dairy", "whey", "casein", "lactose"], "fr": ["lait", "lactose", "lactosérum"] } },
+    "egg": { "label": "Egg", "us_major": true, "eu_annex_ii": true, "keywords": { "en": ["egg", "eggs"], "fr": ["oeuf", "œuf", "oeufs", "œufs"] } },
+    "fish": { "label": "Fish", "us_major": true, "eu_annex_ii": true, "keywords": { "en": ["fish", "anchovy", "anchovies", "cod", "tuna", "salmon"], "fr": ["poisson", "poissons", "anchois"] } },
+    "crustacean_shellfish": { "label": "Crustacean shellfish", "us_major": true, "eu_annex_ii": true, "keywords": { "en": ["shellfish", "crustacean", "crustaceans", "shrimp", "crab", "lobster", "prawn", "prawns"], "fr": ["crustacé", "crustacés", "crevette", "crevettes", "crabe", "homard"] } },
+    "molluscs": { "label": "Molluscs", "us_major": false, "eu_annex_ii": true, "keywords": { "en": ["mollusc", "molluscs", "mollusk", "mollusks", "squid", "mussel", "mussels", "oyster", "oysters"], "fr": ["mollusque", "mollusques", "moule", "moules", "huître", "huîtres"] } },
+    "tree_nuts": { "label": "Tree nuts", "us_major": true, "eu_annex_ii": true, "keywords": { "en": ["tree nut", "tree nuts", "almond", "almonds", "cashew", "cashews", "walnut", "walnuts", "pecan", "pecans", "hazelnut", "hazelnuts", "pistachio", "pistachios", "macadamia"], "fr": ["fruits à coque", "fruit à coque", "amande", "amandes", "noix", "noisette", "noisettes", "pistache", "pistaches", "cajou"] } },
+    "peanuts": { "label": "Peanuts", "us_major": true, "eu_annex_ii": true, "keywords": { "en": ["peanut", "peanuts"], "fr": ["arachide", "arachides", "cacahuète", "cacahuètes"] } },
+    "wheat": { "label": "Wheat", "us_major": true, "eu_annex_ii": false, "keywords": { "en": ["wheat"], "fr": ["blé"] } },
+    "gluten": { "label": "Cereals containing gluten", "us_major": false, "eu_annex_ii": true, "keywords": { "en": ["gluten", "barley", "rye"], "fr": ["gluten", "orge", "seigle", "avoine"] } },
+    "soy": { "label": "Soy", "us_major": true, "eu_annex_ii": true, "keywords": { "en": ["soy", "soya", "soybean", "soybeans"], "fr": ["soja"] } },
+    "sesame": { "label": "Sesame", "us_major": true, "eu_annex_ii": true, "keywords": { "en": ["sesame"], "fr": ["sésame"] } },
+    "celery": { "label": "Celery", "us_major": false, "eu_annex_ii": true, "keywords": { "en": ["celery", "celeriac"], "fr": ["céleri"] } },
+    "mustard": { "label": "Mustard", "us_major": false, "eu_annex_ii": true, "keywords": { "en": ["mustard"], "fr": ["moutarde"] } },
+    "lupin": { "label": "Lupin", "us_major": false, "eu_annex_ii": true, "keywords": { "en": ["lupin", "lupine"], "fr": ["lupin"] } },
+    "sulphites": { "label": "Sulphur dioxide and sulphites", "us_major": false, "eu_annex_ii": true, "keywords": { "en": ["sulphite", "sulphites", "sulfite", "sulfites", "sulphur dioxide", "sulfur dioxide"], "fr": ["sulfite", "sulfites", "anhydride sulfureux"] } }
+  }
+}

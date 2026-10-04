@@ -1,0 +1,604 @@
+[
+  {
+    "RecallID": 10220,
+    "RecallNumber": "25203",
+    "RecallDate": "2025-04-03T00:00:00",
+    "Description": "This recall involves DEWALT 70,000 BTU outdoor portable cordless forced air propane heaters model number DXH70CFAVX. The heaters are yellow and black. The model number is located on the hang tag. \"DEWALT\" is printed in black on the side of the bottom yellow portion of the units. ",
+    "URL": "https://www.cpsc.gov/Recalls/2025/Enerco-Recalls-DEWALT-70000-BTU-Outdoor-Portable-Cordless-Forced-Air-Propane-Heaters-Due-to-Fire-and-Burn-Hazards-Sold-Exclusively-at-Lowes",
+    "Title": "Enerco Recalls DEWALT 70,000 BTU Outdoor Portable Cordless Forced Air Propane Heaters Due to Fire and Burn Hazards; Sold Exclusively at Lowe's",
+    "ConsumerContact": "Enerco at 800-964-4328 from 8 a.m. to 5 p.m. ET Monday through Friday, or online at https://www.enercogroupinc.com/recall or at https://www.enercogroupinc.com and click on \"Recalls\" to register and download a copy of the new instructions and warning sticker.",
+    "LastPublishDate": "2025-04-03T00:00:00",
+    "Products": [
+      {
+        "Name": "DEWALT 70,000 BTU Outdoor Portable Cordless Forced Air Propane Heaters",
+        "Description": "",
+        "Model": "",
+        "Type": "",
+        "CategoryID": "",
+        "NumberOfUnits": "About 21,250 (In addition, about 500 were sold in Canada)"
+      }
+    ],
+    "Inconjunctions": [
+      {
+        "URL": "https://recalls-rappels.canada.ca/en/alert-recall/dewalt-70000-btu-outdoor-portable-cordless-forced-air-propane-heater-recalled-due-fire"
+      }
+    ],
+    "Images": [
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/dewalt-heater-1.png",
+        "Caption": "Recalled DEWALT 70,000 BTU outdoor portable cordless forced air propane heater Model DXH70CFAVX"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/dewalt-heater-2.png",
+        "Caption": "Gas Igniter Valve Button; On/Off Switch; and Green LED Light on the recalled DEWALT 70,000 BTU outdoor portable cordless forced air propane heater Model DXH70CFAVX"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/dewalt-heater-3.png",
+        "Caption": "Fan location on the recalled DEWALT 70,000 BTU outdoor portable cordless forced air propane heater Model DXH70CFAVX"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/dewalt-heater-4.png",
+        "Caption": "Hang Tag on the recalled DEWALT 70,000 BTU outdoor portable cordless forced air propane heater Model DXH70CFAVX"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/dewalt-heater-5.png",
+        "Caption": "UPC Code on product packaging"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/dewalt-heater-6.png",
+        "Caption": "UPC Code"
+      }
+    ],
+    "Injuries": [
+      {
+        "Name": "The firm has received 11 reports of overheating. No injuries have been reported."
+      }
+    ],
+    "Manufacturers": [],
+    "Retailers": [
+      {
+        "Name": "Lowe's stores nationwide and online at Lowes.com from May 2024 through January 2025 for about $200.",
+        "CompanyID": ""
+      }
+    ],
+    "Importers": [
+      {
+        "Name": "Enerco Group Inc., of Cleveland, Ohio",
+        "CompanyID": ""
+      }
+    ],
+    "Distributors": [],
+    "SoldAtLabel": null,
+    "ManufacturerCountries": [
+      {
+        "Country": "China"
+      }
+    ],
+    "ProductUPCs": [
+      {
+        "UPC": "089301008588"
+      }
+    ],
+    "Hazards": [
+      {
+        "Name": "The recalled portable heaters' operating instructions can cause consumers to incorrectly depress the start button too quickly and prevent the fan from starting, causing the heaters to overheat, posing fire and burn hazards.",
+        "HazardType": "",
+        "HazardTypeID": ""
+      }
+    ],
+    "Remedies": [
+      {
+        "Name": "Consumers should immediately stop using the recalled heaters and contact Enerco to request new instructions and a warning sticker describing how to start the heater using the power button. The new instructions and warning sticker are also available via Enerco's website at https://www.enercogroupinc.com/recall. Enerco and Lowe's are contacting all known purchasers directly."
+      }
+    ],
+    "RemedyOptions": [
+      {
+        "Option": "Repair"
+      }
+    ]
+  },
+  {
+    "RecallID": 10166,
+    "RecallNumber": "25140",
+    "RecallDate": "2025-02-20T00:00:00",
+    "Description": "This recall involves DR Power Tow Behind Field and Brush Mowers. The black and orange tow behind mowers have the following model and serial numbers, printed on a white label that is on the front frame of the mower. \"DR\" is printed on the front of the mowers. Only mowers manufactured between April 1, 2024, and August 20, 2024, are included in this recall. The manufacture date is on the serial number label affixed to the rear frame of the unit and is listed in YYYYMMDD format. Model Description Serial No. Range TB21044BEN DR BRUSH MOWER PREMIER 44T 10.5 HP BS ES 3014835626 to 3015507481 TB23244BEN DR BRUSH MOWER PRO 44T 17.5 HP BS ES 3014860338 to 3015403241 TB25344BEN DR BRUSH MOWER PRO XL44T 20 HP BS ES 3014916847 to 3015451110 TB27052BEN DR BRUSH MOWER PRO MAX52T 22 HP BS ES 3014839204 to 3015534243",
+    "URL": "https://www.cpsc.gov/Recalls/2025/DR-Power-Equipment-Recalls-Tow-Behind-Field-Brush-Mowers-Due-to-Laceration-Hazard",
+    "Title": "DR Power Equipment Recalls Tow Behind Field & Brush Mowers Due to Laceration Hazard",
+    "ConsumerContact": "DR Power toll-free at 800-458-4362 from 8:30 a.m. to 5 p.m. ET Monday through Friday, email at recalls@DRPower.com, or online at http://drpower.com/recalls or at www.drpower.com and click on \"Product Recalls\" for more information.",
+    "LastPublishDate": "2025-02-20T00:00:00",
+    "Products": [
+      {
+        "Name": "Tow Behind Field and Brush Mowers",
+        "Description": "",
+        "Model": "",
+        "Type": "",
+        "CategoryID": "",
+        "NumberOfUnits": "About 890"
+      }
+    ],
+    "Inconjunctions": [],
+    "Images": [
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/DR-Power.JPG",
+        "Caption": "Recalled DR Power Equipment Tow Behind Field and Brush Mower"
+      }
+    ],
+    "Injuries": [
+      {
+        "Name": "The firm has received 10 reports of blade carrier detachments. No injuries have been reported."
+      }
+    ],
+    "Manufacturers": [
+      {
+        "Name": "DR Power Equipment, of South Burlington, Vermont, a subsidiary of Generac Power Systems Inc., of Waukesha, Wisconsin",
+        "CompanyID": ""
+      }
+    ],
+    "Retailers": [
+      {
+        "Name": "Bowling alleys nationwide from January 2018 through July 2019 for about $5.",
+        "CompanyID": ""
+      }
+    ],
+    "Importers": [],
+    "Distributors": [],
+    "SoldAtLabel": null,
+    "ManufacturerCountries": [
+      {
+        "Country": "United States"
+      }
+    ],
+    "ProductUPCs": [],
+    "Hazards": [
+      {
+        "Name": "The blade carrier spindle bolt can become loose, causing the blade assembly to detach while the mower is in operation, posing a laceration hazard to the user.",
+        "HazardType": "",
+        "HazardTypeID": ""
+      }
+    ],
+    "Remedies": [
+      {
+        "Name": "Consumers should immediately stop using the tow behind field and brush mower and contact DR Power to arrange for a free repair of the blade carrier assembly at the dealer's location."
+      }
+    ],
+    "RemedyOptions": [
+      {
+        "Option": "Repair"
+      }
+    ]
+  },
+  {
+    "RecallID": 10245,
+    "RecallNumber": "25231",
+    "RecallDate": "2025-04-17T00:00:00",
+    "Description": "This recall involves tip-over restraint kits that were sold with chests and dressers. The kits were packaged in a red plastic bag containing a plastic zip tie, two white plastic brackets, four screws, two white plastic drywall anchors and an instruction sheet. \"American Bolt & Screw MFG CO. LTD, ADDRESS: American Bolt & Screw, 600 S WANAMAKER AVE., ONTARIO, CA 91761,\" and \"MANUFACTURING DATE: JUNE 20, 2023\" or \"MANUFACTURING DATE: January 20, 2024\" are printed on the bag and on the instruction sheet. The kits were distributed with certain clothing storage units manufactured by Canyon Furniture including chests and dressers in the Canyon Lake, Canyon River, Cottage Colors, Creekside 2.0, Ivy League 2.0, and Modern Colors furniture lines. Affected clothing storage units have a white label on the back of the unit that says \"Canyon Furniture Co.\" in black text, as well as a model number beginning with \"CANY\" and the manufacture date.",
+    "URL": "https://www.cpsc.gov/Recalls/2025/American-Bolt-and-Screw-Recalls-Tip-Over-Restraint-Kits-Distributed-with-Clothing-Storage-Units-Manufactured-by-Canyon-Furniture-Due-to-Tip-Over-and-Entrapment-Hazards-and-Risk-of-Serious-Injury-or-Death-Sold-Exclusively-at-Rooms-To-Go",
+    "Title": "American Bolt and Screw Recalls Tip-Over Restraint Kits Distributed with Clothing Storage Units Manufactured by Canyon Furniture Due to Tip-Over and Entrapment Hazards and Risk of Serious Injury or Death; Sold on Amazon.com by Shanghai Chushuo Electronic Commerce Co.",
+    "ConsumerContact": "American Bolt and Screw by email at recall@absfasteners.com, or online at www.ABStipoverecall.com or at https://absfasteners.com/ and click on \"ABS Recalls\" at the bottom of the page. More information is available from Rooms To Go toll-free at 855-688-0919 Monday through Friday from 9 a.m. to 4 p.m. ET or via email at productcare@roomstogo.com.",
+    "LastPublishDate": "2025-04-17T00:00:00",
+    "Products": [
+      {
+        "Name": "Tip-Over Restraint Kits",
+        "Description": "",
+        "Model": "",
+        "Type": "",
+        "CategoryID": "",
+        "NumberOfUnits": "About 12,890"
+      }
+    ],
+    "Inconjunctions": [],
+    "Images": [
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/t-o-r.jpg",
+        "Caption": "Contents of Recalled Tip-over Restraint Kit"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/t-o-r-s.jpg",
+        "Caption": "Safety Brackets Instruction Sheet"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/t-o-r-s-s.jpg",
+        "Caption": "Red Bag Containing Recalled Tip-over Restraint Kit"
+      }
+    ],
+    "Injuries": [
+      {
+        "Name": "None reported"
+      }
+    ],
+    "Manufacturers": [],
+    "Retailers": [
+      {
+        "Name": "Rooms To Go stores and online at www.RoomsToGo.com from July 2023 through May 2024.",
+        "CompanyID": ""
+      }
+    ],
+    "Importers": [
+      {
+        "Name": "American Bolt and Screw, of Ontario, California",
+        "CompanyID": ""
+      }
+    ],
+    "Distributors": [],
+    "SoldAtLabel": null,
+    "ManufacturerCountries": [
+      {
+        "Country": "China"
+      }
+    ],
+    "ProductUPCs": [],
+    "Hazards": [
+      {
+        "Name": "The plastic zip tie used with the recalled furniture tip kits can become brittle or break, which can allow a clothing storage unit that is anchored to the wall to detach during a furniture tip-over event, posing a tip-over and entrapment hazard that can result in death or serious injuries to children.",
+        "HazardType": "",
+        "HazardTypeID": ""
+      }
+    ],
+    "Remedies": [
+      {
+        "Name": "Consumers should contact American Bolt and Screw to get a free replacement tip-over restraint kit. All known purchasers are being contacted directly by American Bolt and Screw. Consumers can contact Rooms to Go for assistance in determining whether their chest or dresser came with the affected tip-over restraint kit. Keep children away from the unit while waiting for a replacement tip kit. Consumers should dispose of the recalled tip-over restraint in their household trash once they have installed the replacement tip-over restraint."
+      }
+    ],
+    "RemedyOptions": [
+      {
+        "Option": "Replace"
+      }
+    ]
+  },
+  {
+    "RecallID": 10165,
+    "RecallNumber": "25139",
+    "RecallDate": "2025-02-20T00:00:00",
+    "Description": "This recall involves Rebecca's Toys & Prizes bowling pin sipper cups. The cups are white with red tape on the neck and a red plastic cap. The words \"ITEM NO. PG1045\", the brand name and the firm's address are printed on a white label located on the side of the sipper cup.",
+    "URL": "https://www.cpsc.gov/Recalls/2025/Nazzaro-Recalls-Children-Bowling-Pin-Sipper-Cups-Due-to-Risk-of-Lead-Poisoning-Violation-of-Federal-Lead-Content-Ban",
+    "Title": "Nazzaro Recalls Children Bowling Pin Sipper Cups Due to Risk of Lead Poisoning; Violation of Federal Lead Content Ban",
+    "ConsumerContact": "Nazzaro toll-free at 800-777-2235 from 10 a.m. to 5:30 p.m. CT Monday through Friday, email at service@rebeccas.com, or online at https://www.rebeccas.com/recall.html or www.rebeccas.com and click \"Recall\" at the bottom of the page for more information.",
+    "LastPublishDate": "2025-02-20T00:00:00",
+    "Products": [
+      {
+        "Name": "Rebecca's Toys & Prizes Bowling Pin Sipper Cups",
+        "Description": "",
+        "Model": "",
+        "Type": "",
+        "CategoryID": "",
+        "NumberOfUnits": "About 2,400"
+      }
+    ],
+    "Inconjunctions": [],
+    "Images": [
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/nazzaro-1.png",
+        "Caption": "Recalled Bowling Pin Sipper Cup"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/nazzaro-2.png",
+        "Caption": "Recalled Bowling Pin Sipper Cup's label"
+      }
+    ],
+    "Injuries": [
+      {
+        "Name": "None reported"
+      }
+    ],
+    "Manufacturers": [],
+    "Retailers": [
+      {
+        "Name": "Bowling alleys nationwide from January 2018 through July 2019 for about $5.",
+        "CompanyID": ""
+      }
+    ],
+    "Importers": [
+      {
+        "Name": "Nazzaro Enterprises Texas Inc., of Hurst, Texas",
+        "CompanyID": ""
+      }
+    ],
+    "Distributors": [],
+    "SoldAtLabel": null,
+    "ManufacturerCountries": [
+      {
+        "Country": "China"
+      }
+    ],
+    "ProductUPCs": [],
+    "Hazards": [
+      {
+        "Name": "The red tape on the bowling pin sipper cups contains levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health issues.",
+        "HazardType": "",
+        "HazardTypeID": ""
+      }
+    ],
+    "Remedies": [
+      {
+        "Name": "Consumers should immediately take the recalled cups away from children and stop using them. Contact Nazzaro for a full refund. Nazzaro is contacting all known purchasers directly."
+      }
+    ],
+    "RemedyOptions": [
+      {
+        "Option": "Refund"
+      }
+    ]
+  },
+  {
+    "RecallID": 10140,
+    "RecallNumber": "25111",
+    "RecallDate": "2025-01-30T00:00:00",
+    "Description": "This recall involves Greater Goods Digital Kitchen Scales, models: 0480, 0455, 0456, 0458, 0473, 0479, 0481, 0747, 0748, 0749, 0751, 0752, 0754. They are labeled with a sticker with the brand and model printed on the back and come in gray, black, blue, green, pink, red, silver and white colors. The Greater Goods logo is located on the top of the front panel of the scale. The scales come with a lithium CR3032 coin battery pre-installed and a spare CR3032 battery in the packaging.",
+    "URL": "https://www.cpsc.gov/Recalls/2025/Greater-Goods-Recalls-Digital-Kitchen-Scales-Due-to-Ingestion-Hazard-Violations-of-Reeses-Law-Federal-Safety-Regulations-for-Consumer-Products-with-Coin-Batteries-and-Child-Resistant-Coin-Battery-Packaging",
+    "Title": "Greater Goods Recalls Digital Kitchen Scales Due to Ingestion Hazard; Violations of Reese's Law Federal Safety Regulations for Consumer Products with Coin Batteries and Child Resistant Coin Battery Packaging",
+    "ConsumerContact": "Greater Goods toll-free at 866-991-0397 from 9 a.m. to 5 p.m. CT Monday through Friday, email at recall@greatergoods.com, or online at www.greatergoods.com and click the recall banner at the top of the page or https://shop.greatergoods.com/pages/replaceyourbatterydoor for more information.",
+    "LastPublishDate": "2025-01-30T00:00:00",
+    "Products": [
+      {
+        "Name": "Greater Goods Digital Kitchen Scales",
+        "Description": "",
+        "Model": "",
+        "Type": "",
+        "CategoryID": "",
+        "NumberOfUnits": "About 349,500"
+      }
+    ],
+    "Inconjunctions": [],
+    "Images": [
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-1.jpg",
+        "Caption": "Recalled Gray Digital Kitchen Scale"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-2.jpg",
+        "Caption": "Recalled Black Digital Kitchen Scale"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-3.jpg",
+        "Caption": "Recalled Cherry Red Digital Kitchen Scale"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-4.jpg",
+        "Caption": "Recalled Black Glass Digital Kitchen Scale"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-5.jpg",
+        "Caption": "Recalled Silver Digital Kitchen Scale"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-6.jpg",
+        "Caption": "Recalled Blue Digital Kitchen Scale"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-7.jpg",
+        "Caption": "Recalled Mint Green Digital Kitchen Scale"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-8.jpg",
+        "Caption": "Recalled Pink Digital Kitchen Scale"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-9.jpg",
+        "Caption": "Recalled White Digital Kitchen Scale"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-10.jpg",
+        "Caption": "Recalled Green Digital Kitchen Scale"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-11.jpg",
+        "Caption": "Recalled Digital Kitchen Scale Packaging – Back (Sticker color will match Scale color)"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-12.jpg",
+        "Caption": "Recalled Digital Kitchen Scale Packaging – Front (Sticker color will match Scale color"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-13.jpg",
+        "Caption": "Recalled Digital Kitchen Scale without battery door - Bottom"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-14.jpg",
+        "Caption": "Recalled Digital Kitchen Scale - Bottom"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/kitchen-scale-15.png",
+        "Caption": "Recalled battery door and updated battery door"
+      }
+    ],
+    "Injuries": [
+      {
+        "Name": "None reported"
+      }
+    ],
+    "Manufacturers": [],
+    "Retailers": [
+      {
+        "Name": "Alexandra's Kitchen store located in Niskayuna, New York and online at Amazon, Walmart and Greater Goods from May 2023 through September 2024 for about $10.",
+        "CompanyID": ""
+      }
+    ],
+    "Importers": [
+      {
+        "Name": "Greater Goods LLC, of Saint Louis, Missouri",
+        "CompanyID": ""
+      }
+    ],
+    "Distributors": [],
+    "SoldAtLabel": null,
+    "ManufacturerCountries": [
+      {
+        "Country": "China"
+      }
+    ],
+    "ProductUPCs": [],
+    "Hazards": [
+      {
+        "Name": "The recalled digital kitchen scales violate the mandatory federal regulations for consumer products containing button cell or coin batteries, because the scale has a lithium coin battery that can be easily accessed by children, and a spare coin battery provided with the product not in child resistant packaging, as required by Reese's Law. These violations pose an ingestion hazard. The recalled scales also do not have the required warnings. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns, and death.",
+        "HazardType": "",
+        "HazardTypeID": ""
+      }
+    ],
+    "Remedies": [
+      {
+        "Name": "Consumers should immediately remove the battery in the digital kitchen scale and place it in an area that children cannot access. Contact Greater Goods for information on how to receive a free recall kit, which includes a new replacement battery door that can be secured to the scale, the required labeling, and an updated instruction manual. Greater Goods, Amazon and Walmart are contacting all known purchasers directly."
+      }
+    ],
+    "RemedyOptions": [
+      {
+        "Option": "Repair"
+      }
+    ]
+  },
+  {
+    "RecallID": 10222,
+    "RecallNumber": "25205",
+    "RecallDate": "2025-04-03T00:00:00",
+    "Description": "This recall involves Superb Sports baby bath seats. The bath seats were sold in light blue only. They have a built-in anti-slip cushion and come with four big suction cups. They are made of polypropylene (PP) and ethylene vinyl acetate (EVA) plastic material. Stickers featuring clouds, a lion, a sun and a squirrel holding two balloons are on the front bar. The bath seats measure about 12 inches long, 13 inches wide and 8 inches high. ",
+    "URL": "https://www.cpsc.gov/Recalls/2025/Superb-Sports-Baby-Bath-Seats-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-to-Babies-from-Drowning-Hazard-Violation-of-Federal-Regulation-for-Infant-Bath-Seats-Sold-on-Amazon-com-by-DualOranges-Store",
+    "Title": "Superb Sports Baby Bath Seats Recalled Due to Risk of Serious Injury or Death to Babies from Drowning Hazard; Violation of Federal Regulation for Infant Bath Seats; Sold on Amazon.com by DualOranges Store",
+    "ConsumerContact": "DualOranges Store collect at 980-398-2313 from 9 a.m. to 5 p.m. PT Monday through Friday or by email at info@dualoranges.com.",
+    "LastPublishDate": "2025-04-03T00:00:00",
+    "Products": [
+      {
+        "Name": "Superb Sports Baby Bath Seats",
+        "Description": "",
+        "Model": "",
+        "Type": "",
+        "CategoryID": "",
+        "NumberOfUnits": "About 1,050"
+      }
+    ],
+    "Inconjunctions": [],
+    "Images": [
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/superb-bath-seat-1.jpg",
+        "Caption": "Recalled Superb Sports baby bath seat – light blue (front view)"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/superb-bath-seat-2.jpg",
+        "Caption": "Recalled Superb Sports baby bath seat – light blue (top view)"
+      }
+    ],
+    "Injuries": [
+      {
+        "Name": "None reported"
+      }
+    ],
+    "Manufacturers": [],
+    "Retailers": [
+      {
+        "Name": "Amazon.com from February 2024 through November 2024 for between $46 and $60.",
+        "CompanyID": ""
+      }
+    ],
+    "Importers": [],
+    "Distributors": [
+      {
+        "Name": "Shen Zhen Cheng Cheng Ke Ji You Xian Gong Si, dba DualOranges Store, of China",
+        "CompanyID": ""
+      }
+    ],
+    "SoldAtLabel": null,
+    "ManufacturerCountries": [
+      {
+        "Country": "China"
+      }
+    ],
+    "ProductUPCs": [],
+    "Hazards": [
+      {
+        "Name": "The recalled bath seats violate the federal safety regulation for infant bath seats, including requirements for stability and leg openings, and can tip over while in use, posing a risk of serious injury or death to babies due to drowning hazard.",
+        "HazardType": "",
+        "HazardTypeID": ""
+      }
+    ],
+    "Remedies": [
+      {
+        "Name": "Consumers should stop using the recalled bath seats immediately, and contact DualOranges Store via email at info@dualoranges.com for information on how to dispose of the product and submit a photograph to obtain a full refund. DualOranges Store and Amazon are contacting all known purchasers directly."
+      }
+    ],
+    "RemedyOptions": [
+      {
+        "Option": "Refund"
+      }
+    ]
+  },
+  {
+    "RecallID": 10150,
+    "RecallNumber": "25124",
+    "RecallDate": "2025-02-06T00:00:00",
+    "Description": "This recall involves certain Ariens DELUXE-, PLATINUM- and PROFESSIONAL-series Sno-Thro® models. The recalled snow throwers were sold in a bright orange color and are equipped with either rear wheels or tracks. The model and serial numbers are located on the white square ID tag on the frame. Some recalled snowblowers have already been inspected and repaired. Consumers are urged to visit https://www.ariensco.com/safetyrecall for a list of recalled units.",
+    "URL": "https://www.cpsc.gov/Recalls/2025/Ariens-Recalls-Snow-Throwers-Due-to-Laceration-Hazard",
+    "Title": "Ariens Recalls Snow Throwers Due to Laceration Hazard",
+    "ConsumerContact": "Ariens Company toll-free at 877-740-7060 from 8 a.m. to 4 p.m. CT Monday through Friday, or online at https://www.ariensco.com/safetyrecallor at www.ariens.com and click on \"Safety Recalls\" for more information.",
+    "LastPublishDate": "2025-02-06T00:00:00",
+    "Products": [
+      {
+        "Name": "Ariens® DELUXE-, PLATINUM- and PROFESSIONAL-series Snow Throwers",
+        "Description": "",
+        "Model": "",
+        "Type": "",
+        "CategoryID": "",
+        "NumberOfUnits": "About 6,260 (In addition, about 1,100 were sold in Canada)"
+      }
+    ],
+    "Inconjunctions": [
+      {
+        "URL": "https://recalls-rappels.canada.ca/en/alert-recall/ariens-deluxe-platinum-and-professional-series-snow-throwers-recalled-due-injury"
+      }
+    ],
+    "Images": [
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/Ariens-1.png",
+        "Caption": "Recalled Ariens Snow Throwers with Tracks"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/Ariens-2.png",
+        "Caption": "Recalled Ariens Snow Thrower with Wheels"
+      },
+      {
+        "URL": "https://www.cpsc.gov/s3fs-public/Ariens-3.png",
+        "Caption": "Location of Model and Serial Number on the frame of the recalled Snow Throwers"
+      }
+    ],
+    "Injuries": [
+      {
+        "Name": "None reported"
+      }
+    ],
+    "Manufacturers": [
+      {
+        "Name": "Ariens Company, of Brillion, Wisconsin",
+        "CompanyID": ""
+      }
+    ],
+    "Retailers": [
+      {
+        "Name": "Authorized Ariens dealers nationwide, Ace Hardware, Blain's Farm & Fleet, Do It Best, Family Farm & Home, Mills Fleet Farm, Northern Tool and Equipment, Lowe's and True Value and online at AceHardware.com, Farmandfleet.com, Doitbest.com, familyfarmandhome.com, Lowes.com, fleetfarm.com, northerntool.com, TrueValue.com from August 2024 through October 2024 for between $1,770 and $5,440.",
+        "CompanyID": ""
+      }
+    ],
+    "Importers": [],
+    "Distributors": [],
+    "SoldAtLabel": null,
+    "ManufacturerCountries": [
+      {
+        "Country": "United States"
+      }
+    ],
+    "ProductUPCs": [],
+    "Hazards": [
+      {
+        "Name": "The recalled snow thrower impeller and auger assembly can continue rotating even after the operator control lever is released, posing a laceration hazard if a user makes contact with the rotating parts inside the housing enclosure at the front of the machine.",
+        "HazardType": "",
+        "HazardTypeID": ""
+      }
+    ],
+    "Remedies": [
+      {
+        "Name": "Consumers should immediately stop using the recalled snow throwers and contact Ariens Company or an authorized dealer for a free repair at their local dealership. Ariens Company and its authorized dealers will confirm whether a unit has already been inspected and/or repaired and will perform all necessary repairs on affected units."
+      }
+    ],
+    "RemedyOptions": [
+      {
+        "Option": "Repair"
+      }
+    ]
+  }
+]

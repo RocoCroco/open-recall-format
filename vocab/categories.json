@@ -1,0 +1,53 @@
+{
+  "vocabulary": "categories",
+  "orf_version": "0.1",
+  "description": "Top-level product kinds. Deliberately coarse: a record keeps the authority's own category in `products[].source_category`, and may give a GS1 GPC brick in `products[].gpc_brick`. `source_values` map authority categories (exact strings, compared case-insensitively).",
+  "terms": {
+    "food": {
+      "label": "Food and drink",
+      "source_values": { "US-FDA": ["Food"], "CA-RSA": ["CFIA"], "FR-RAPPELCONSO": ["alimentation"] }
+    },
+    "drug": {
+      "label": "Medicines and health products",
+      "source_values": { "US-FDA": ["Drugs"], "CA-RSA": ["Drugs and health products", "Marketed health products", "Controlled substances and cannabis"] }
+    },
+    "medical_device": {
+      "label": "Medical devices",
+      "source_values": { "US-FDA": ["Devices"], "CA-RSA": ["Medical devices"] }
+    },
+    "cosmetic": {
+      "label": "Cosmetics and personal care",
+      "source_values": { "EU-SAFETY-GATE": ["product.category.cosmetics"], "GB-OPSS": ["cosmetics"], "FR-RAPPELCONSO": ["hygiène-beauté"] }
+    },
+    "vehicle": {
+      "label": "Motor vehicles",
+      "source_values": { "US-NHTSA": ["V"], "CA-RSA": ["TC"], "EU-SAFETY-GATE": ["product.category.motor.vehicles"], "GB-OPSS": ["motor-vehicles"], "FR-RAPPELCONSO": ["automobiles et moyens de déplacement"] }
+    },
+    "vehicle_equipment": {
+      "label": "Vehicle equipment",
+      "source_values": { "US-NHTSA": ["E"] }
+    },
+    "child_restraint": {
+      "label": "Child car seats",
+      "source_values": { "US-NHTSA": ["C"] }
+    },
+    "tire": {
+      "label": "Tires",
+      "source_values": { "US-NHTSA": ["T"] }
+    },
+    "consumer_product": {
+      "label": "Consumer products",
+      "source_values": {
+        "US-CPSC": ["*"],
+        "CA-RSA": ["Consumer product safety", "Communications and Public Affairs Branch", "HC"],
+        "EU-SAFETY-GATE": ["*"],
+        "GB-OPSS": ["*"],
+        "FR-RAPPELCONSO": ["bébés-enfants (hors alimentaire)", "maison-habitat", "vêtements, mode, epi", "appareils électriques, outils", "sports-loisirs", "equipements de communication", "autres"]
+      }
+    },
+    "other": {
+      "label": "Other",
+      "source_values": {}
+    }
+  }
+}

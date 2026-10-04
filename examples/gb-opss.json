@@ -1,0 +1,55 @@
+{
+  "orf_version": "0.1",
+  "id": "gb-opss:2609-0229",
+  "source": {
+    "authority": "GB-OPSS",
+    "id": "2609-0229",
+    "url": "https://www.gov.uk/product-safety-alerts-reports-recalls/product-recall-my-first-baby-spinner-sold-by-the-works-2609-0229",
+    "retrieved": "2026-10-03T12:00:00Z",
+    "licence": "OGL-UK-3.0",
+    "attribution": "Contains public sector information licensed under the Open Government Licence v3.0."
+  },
+  "jurisdictions": [
+    "GB"
+  ],
+  "language": "en",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "category": "consumer_product",
+  "title": "Product Recall: My First Baby Spinner sold by The Works (2609-0229)",
+  "products": [
+    {
+      "name": "My First Baby Spinner",
+      "brands": [
+        "Playworks"
+      ],
+      "description": "Spinning toy with suction-cup base, intended for babies/toddlers. Colours may vary.",
+      "source_category": "Toys - Baby/Infant Stimulation Toys (Non Powered)",
+      "scope": "listed_units",
+      "identification": [
+        {
+          "gtins": [
+            "5052089365995"
+          ],
+          "basis": "structured"
+        }
+      ]
+    }
+  ],
+  "hazards": [
+    {
+      "type": "choking"
+    }
+  ],
+  "hazard_text": "The product presents a risk of choking as it has small parts that can detach or break off during reasonably foreseeable use.",
+  "severity": {
+    "level": "moderate",
+    "source_value": "medium"
+  },
+  "actions": [
+    "stop_using"
+  ],
+  "remedies": [],
+  "instructions": "The product has been recalled from end users by The Works. Measures: recall-of-product-from-end-users.",
+  "summary": "Playworks My First Baby Spinner is recalled because of a risk of choking. Stop using it."
+}

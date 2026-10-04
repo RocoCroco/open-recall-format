@@ -1,0 +1,83 @@
+{
+  "vocabulary": "actions",
+  "orf_version": "0.1",
+  "description": "What the owner should do, most urgent first. The order of `terms` is the default urgency order. `spoken` is a short English phrase for generated summaries. `keywords` are phrases converters look for in the authority's instructions; `source_values` are the authority's own codes (exact strings).",
+  "terms": {
+    "do_not_drive": {
+      "label": "Do not drive the vehicle",
+      "spoken": "don't drive it",
+      "keywords": { "en": ["do not drive", "should not drive", "not to drive"], "fr": ["ne plus conduire"] },
+      "source_values": { "US-NHTSA": ["parkIt"] }
+    },
+    "park_outside": {
+      "label": "Park outside, away from buildings",
+      "spoken": "park it outside, away from buildings",
+      "keywords": { "en": ["park outside", "park their vehicles outside", "park outdoors"], "fr": [] },
+      "source_values": { "US-NHTSA": ["parkOutSide"] }
+    },
+    "stop_using": {
+      "label": "Stop using the product",
+      "spoken": "stop using it",
+      "keywords": { "en": ["stop using", "stop use", "do not use", "discontinue use", "discontinue using", "cease using", "should not use"], "fr": ["ne plus utiliser", "cesser d'utiliser", "ne pas utiliser"] },
+      "source_values": {
+        "FR-RAPPELCONSO": ["ne plus utiliser le produit"],
+        "GB-OPSS": ["recall-of-product-from-end-users"],
+        "EU-SAFETY-GATE": ["measure.category.recall.of.product.from.consumers"]
+      }
+    },
+    "do_not_eat": {
+      "label": "Do not eat or drink it",
+      "spoken": "don't eat it",
+      "keywords": { "en": ["do not eat", "do not consume", "not to consume", "should not consume", "should not eat", "do not drink"], "fr": ["ne plus consommer", "ne pas consommer"] },
+      "source_values": { "FR-RAPPELCONSO": ["ne plus consommer"] }
+    },
+    "keep_away_from_children": {
+      "label": "Keep it away from children",
+      "spoken": "keep it away from children",
+      "keywords": { "en": ["keep children away", "keep away from children", "out of reach of children", "keep the product away from children", "keep it away from children"], "fr": ["hors de portée des enfants", "tenir à l'écart des enfants"] },
+      "source_values": {}
+    },
+    "check_with_doctor": {
+      "label": "See a doctor if there are symptoms",
+      "spoken": "see a doctor if anyone feels unwell",
+      "keywords": { "en": ["contact their physician", "consult a physician", "consult their physician", "contact a healthcare provider", "contact their healthcare provider", "consult a doctor", "consult their doctor"], "fr": ["consulter leur médecin", "consulter un médecin", "consulter votre médecin"] },
+      "source_values": {}
+    },
+    "dispose": {
+      "label": "Dispose of the product",
+      "spoken": "throw it away",
+      "keywords": { "en": ["dispose", "discard", "throw away", "throw it away", "destroy"], "fr": ["détruire", "jeter"] },
+      "source_values": { "FR-RAPPELCONSO": ["détruire le produit"] }
+    },
+    "return_to_store": {
+      "label": "Return it to the store",
+      "spoken": "take it back to the store",
+      "keywords": { "en": ["return it to the store", "return the product to the store", "return them to the store", "return to the place of purchase", "return it to the place of purchase", "return the product to the place of purchase", "return them to the place of purchase", "return the products to the place of purchase", "return it to the retailer"], "fr": ["rapporter le produit", "ramener le produit"] },
+      "source_values": { "FR-RAPPELCONSO": ["rapporter le produit au point de vente"] }
+    },
+    "contact_dealer": {
+      "label": "Contact a dealer",
+      "spoken": "contact a dealer",
+      "keywords": { "en": ["dealers will", "contact their dealer", "contact a dealer", "take their vehicle to a dealer"], "fr": ["concessionnaire"] },
+      "source_values": {}
+    },
+    "get_repair": {
+      "label": "Get it repaired",
+      "spoken": "get the free repair",
+      "keywords": { "en": ["free repair", "repair kit", "will repair", "will replace the", "for a repair"], "fr": ["réparation"] },
+      "source_values": { "GB-OPSS": ["modification-programme"] }
+    },
+    "contact_firm": {
+      "label": "Contact the company",
+      "spoken": "contact the company",
+      "keywords": { "en": ["contact the firm", "contact the company", "should contact", "consumers can contact", "consumers may contact", "owners may contact", "for more information, contact", "visit the recall website", "register for the recall", "and contact", "contact the brand", "contact the brands", "contact the manufacturer"], "fr": ["contacter le service consommateur", "contacter le fabricant"] },
+      "source_values": { "FR-RAPPELCONSO": ["contacter le service consommateur"] }
+    },
+    "contact_retailer": {
+      "label": "Contact the shop that sold it",
+      "spoken": "contact the shop that sold it",
+      "keywords": { "en": ["contact the retailer", "contact the store"], "fr": ["contacter le point de vente"] },
+      "source_values": { "FR-RAPPELCONSO": ["contacter le point de vente"] }
+    }
+  }
+}

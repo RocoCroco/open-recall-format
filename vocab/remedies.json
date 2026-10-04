@@ -1,0 +1,43 @@
+{
+  "vocabulary": "remedies",
+  "orf_version": "0.1",
+  "description": "What the owner gets. Aligned with the remedies of Article 37 of the EU General Product Safety Regulation (repair, replacement, refund) and the CPSC remedy options. `source_values` are the authority's own values (exact strings, compared case-insensitively).",
+  "terms": {
+    "refund": {
+      "label": "Refund",
+      "spoken": "a refund",
+      "keywords": { "en": ["refund", "full refund", "money back"], "fr": ["remboursement", "rembourser"] },
+      "source_values": { "US-CPSC": ["Refund"], "FR-RAPPELCONSO": ["remboursement"] }
+    },
+    "replacement": {
+      "label": "Replacement",
+      "spoken": "a free replacement",
+      "keywords": { "en": ["replacement", "free replacement", "exchange"], "fr": ["échange", "remplacement"] },
+      "source_values": { "US-CPSC": ["Replace"], "FR-RAPPELCONSO": ["echange", "échange"] }
+    },
+    "repair": {
+      "label": "Repair",
+      "spoken": "a free repair",
+      "keywords": { "en": ["free repair", "repair kit", "will repair", "dealers will replace", "dealers will inspect", "dealers will update", "remedy free of charge"], "fr": ["réparation"] },
+      "source_values": { "US-CPSC": ["Repair"], "FR-RAPPELCONSO": ["réparation"], "GB-OPSS": ["modification-programme"] }
+    },
+    "instructions_or_label": {
+      "label": "New instructions or warning label",
+      "spoken": "new instructions",
+      "keywords": { "en": ["new instructions", "warning label", "warning sticker", "updated instructions"], "fr": ["nouvelle notice", "étiquette d'avertissement"] },
+      "source_values": { "US-CPSC": ["New Instructions", "Label"], "GB-OPSS": ["marking-product-with-appropriate-warnings-on-risks"] }
+    },
+    "other": {
+      "label": "Other remedy",
+      "spoken": "a remedy",
+      "keywords": { "en": [], "fr": [] },
+      "source_values": { "US-CPSC": ["Other"], "FR-RAPPELCONSO": ["autre (voir informations complémentaires)"] }
+    },
+    "none": {
+      "label": "No remedy offered",
+      "spoken": "",
+      "keywords": { "en": [], "fr": [] },
+      "source_values": {}
+    }
+  }
+}

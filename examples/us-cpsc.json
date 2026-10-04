@@ -1,0 +1,154 @@
+{
+  "orf_version": "0.1",
+  "id": "us-cpsc:25140",
+  "source": {
+    "authority": "US-CPSC",
+    "id": "25140",
+    "url": "https://www.cpsc.gov/Recalls/2025/DR-Power-Equipment-Recalls-Tow-Behind-Field-Brush-Mowers-Due-to-Laceration-Hazard",
+    "retrieved": "2026-10-03T12:00:00Z",
+    "licence": "public-domain-us-gov",
+    "attribution": "Source: U.S. Consumer Product Safety Commission (cpsc.gov)."
+  },
+  "jurisdictions": [
+    "US"
+  ],
+  "language": "en",
+  "published": "2025-02-20",
+  "updated": "2025-02-20",
+  "category": "consumer_product",
+  "title": "DR Power Equipment Recalls Tow Behind Field & Brush Mowers Due to Laceration Hazard",
+  "products": [
+    {
+      "name": "Tow Behind Field and Brush Mowers",
+      "brands": [
+        "DR"
+      ],
+      "description": "This recall involves DR Power Tow Behind Field and Brush Mowers. The black and orange tow behind mowers have the following model and serial numbers, printed on a white label that is on the front frame of the mower. \"DR\" is printed on the front of the mowers. Only mowers manufactured between April 1, 2024, and August 20, 2024, are included in this recall. The manufacture date is on the serial number label affixed to the rear frame of the unit and is listed in YYYYMMDD format. Model Description Serial No. Range TB21044BEN DR BRUSH MOWER PREMIER 44T 10.5 HP BS ES 3014835626 to 3015507481 TB23244BEN DR BRUSH MOWER PRO 44T 17.5 HP BS ES 3014860338 to 3015403241 TB25344BEN DR BRUSH MOWER PRO XL44T 20 HP BS ES 3014916847 to 3015451110 TB27052BEN DR BRUSH MOWER PRO MAX52T 22 HP BS ES 3014839204 to 3015534243",
+      "units": [
+        {
+          "count": 890,
+          "approximate": true,
+          "country": "US"
+        }
+      ],
+      "scope": "listed_units",
+      "identification": [
+        {
+          "models": [
+            "TB21044BEN"
+          ],
+          "serials": [
+            {
+              "from": "3014835626",
+              "to": "3015507481"
+            }
+          ],
+          "manufactured": {
+            "from": "2024-04-01",
+            "to": "2024-08-20"
+          },
+          "basis": "text"
+        },
+        {
+          "models": [
+            "TB23244BEN"
+          ],
+          "serials": [
+            {
+              "from": "3014860338",
+              "to": "3015403241"
+            }
+          ],
+          "manufactured": {
+            "from": "2024-04-01",
+            "to": "2024-08-20"
+          },
+          "basis": "text"
+        },
+        {
+          "models": [
+            "TB25344BEN"
+          ],
+          "serials": [
+            {
+              "from": "3014916847",
+              "to": "3015451110"
+            }
+          ],
+          "manufactured": {
+            "from": "2024-04-01",
+            "to": "2024-08-20"
+          },
+          "basis": "text"
+        },
+        {
+          "models": [
+            "TB27052BEN"
+          ],
+          "serials": [
+            {
+              "from": "3014839204",
+              "to": "3015534243"
+            }
+          ],
+          "manufactured": {
+            "from": "2024-04-01",
+            "to": "2024-08-20"
+          },
+          "basis": "text"
+        }
+      ],
+      "identification_hint": "The black and orange tow behind mowers have the following model and serial numbers, printed on a white label that is on the front frame of the mower. The manufacture date is on the serial number label affixed to the rear frame of the unit and is listed in YYYYMMDD format.",
+      "sold": {
+        "where": "Bowling alleys nationwide",
+        "from": "2018-01",
+        "to": "2019-07",
+        "price": "$5"
+      },
+      "images": [
+        {
+          "url": "https://www.cpsc.gov/s3fs-public/DR-Power.JPG",
+          "caption": "Recalled DR Power Equipment Tow Behind Field and Brush Mower"
+        }
+      ]
+    }
+  ],
+  "hazards": [
+    {
+      "type": "laceration"
+    }
+  ],
+  "hazard_text": "The blade carrier spindle bolt can become loose, causing the blade assembly to detach while the mower is in operation, posing a laceration hazard to the user.",
+  "severity": {
+    "level": "unknown"
+  },
+  "actions": [
+    "stop_using",
+    "get_repair",
+    "contact_firm"
+  ],
+  "remedies": [
+    "repair"
+  ],
+  "instructions": "Consumers should immediately stop using the tow behind field and brush mower and contact DR Power to arrange for a free repair of the blade carrier assembly at the dealer's location.",
+  "contact": {
+    "text": "DR Power toll-free at 800-458-4362 from 8:30 a.m. to 5 p.m. ET Monday through Friday, email at recalls@DRPower.com, or online at http://drpower.com/recalls or at www.drpower.com and click on \"Product Recalls\" for more information.",
+    "phone": "+1-800-458-4362",
+    "email": "recalls@DRPower.com",
+    "url": "http://drpower.com/recalls"
+  },
+  "firms": [
+    {
+      "name": "DR Power Equipment",
+      "role": "recalling_firm"
+    },
+    {
+      "name": "DR Power Equipment",
+      "role": "manufacturer"
+    }
+  ],
+  "incidents": {
+    "text": "The firm has received 10 reports of blade carrier detachments. No injuries have been reported."
+  },
+  "summary": "DR Tow Behind Field and Brush Mowers are recalled because of a risk of cuts. Stop using them and get the free repair."
+}

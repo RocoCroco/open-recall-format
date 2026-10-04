@@ -1,0 +1,56 @@
+{
+  "vocabulary": "authorities",
+  "orf_version": "0.1",
+  "description": "Recall publishers with a converter in this project, the data they publish and the licence it comes under. Licence identifiers follow SPDX where one exists. Always check the publisher's current terms before redistributing data.",
+  "terms": {
+    "US-CPSC": {
+      "name": "U.S. Consumer Product Safety Commission",
+      "jurisdictions": ["US"],
+      "data": "Recalls API (JSON): https://www.saferproducts.gov/RestWebServices/Recall?format=json",
+      "licence": "public-domain-us-gov",
+      "attribution": "Source: U.S. Consumer Product Safety Commission (cpsc.gov)."
+    },
+    "US-NHTSA": {
+      "name": "U.S. National Highway Traffic Safety Administration",
+      "jurisdictions": ["US"],
+      "data": "Recalls API https://api.nhtsa.gov/recalls/recallsByVehicle and the bulk file FLAT_RCL https://static.nhtsa.gov/odi/ffdd/rcl/FLAT_RCL_POST_2010.zip",
+      "licence": "public-domain-us-gov",
+      "attribution": "Source: U.S. National Highway Traffic Safety Administration (nhtsa.gov)."
+    },
+    "US-FDA": {
+      "name": "U.S. Food and Drug Administration (openFDA enforcement reports)",
+      "jurisdictions": ["US"],
+      "data": "openFDA food, drug and device enforcement endpoints: https://open.fda.gov/apis/",
+      "licence": "CC0-1.0",
+      "attribution": "Source: U.S. Food and Drug Administration, openFDA (open.fda.gov). openFDA does not endorse this product."
+    },
+    "CA-RSA": {
+      "name": "Government of Canada, Recalls and Safety Alerts (Health Canada, Transport Canada, Canadian Food Inspection Agency)",
+      "jurisdictions": ["CA"],
+      "data": "Open data file (JSON/CSV): https://open.canada.ca/data/en/dataset/d38de914-c94c-429b-8ab1-8776c31643e3",
+      "licence": "OGL-Canada-2.0",
+      "attribution": "Contains information licensed under the Open Government Licence - Canada."
+    },
+    "EU-SAFETY-GATE": {
+      "name": "European Commission, Safety Gate (rapid alert system for dangerous non-food products)",
+      "jurisdictions": ["EU"],
+      "data": "Public website https://ec.europa.eu/safety-gate-alerts/ (its JSON API is not documented and may change)",
+      "licence": "CC-BY-4.0",
+      "attribution": "Source: European Commission, Safety Gate (ec.europa.eu/safety-gate-alerts). Reuse authorised under Commission Decision 2011/833/EU (CC BY 4.0); the record was converted to the Open Recall Format."
+    },
+    "FR-RAPPELCONSO": {
+      "name": "RappelConso (French government, DGCCRF)",
+      "jurisdictions": ["FR"],
+      "data": "Open data API: https://data.economie.gouv.fr/explore/dataset/rappelconso-v2-gtin-trie/",
+      "licence": "etalab-2.0",
+      "attribution": "Source: RappelConso, Ministères économiques et financiers (Licence Ouverte / Open Licence 2.0); converted to the Open Recall Format."
+    },
+    "GB-OPSS": {
+      "name": "UK Office for Product Safety and Standards",
+      "jurisdictions": ["GB"],
+      "data": "GOV.UK search and content APIs for https://www.gov.uk/product-safety-alerts-reports-recalls",
+      "licence": "OGL-UK-3.0",
+      "attribution": "Contains public sector information licensed under the Open Government Licence v3.0."
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "orf_version": "0.1",
+  "id": "us-fda:97354",
+  "source": {
+    "authority": "US-FDA",
+    "id": "97354",
+    "url": "https://www.accessdata.fda.gov/scripts/ires/index.cfm?Event=97354",
+    "retrieved": "2026-10-03T12:00:00Z",
+    "licence": "CC0-1.0",
+    "attribution": "Source: U.S. Food and Drug Administration, openFDA (open.fda.gov). openFDA does not endorse this product."
+  },
+  "jurisdictions": [
+    "US"
+  ],
+  "language": "en",
+  "published": "2025-09-10",
+  "category": "medical_device",
+  "title": "mo-Vis BVBA recall: Devices with firmware versions 2.3 and lower may experience timing variations between software tasks, which could result",
+  "products": [
+    {
+      "name": "IDM-MICRO-R",
+      "brands": [],
+      "description": "IDM-MICRO-R. Electrical wheelchair component.",
+      "source_category": "Devices",
+      "scope": "unknown",
+      "identification": [
+        {
+          "udi_di": [
+            "05407008320836"
+          ],
+          "serials": [
+            {
+              "from": "1000",
+              "to": "1690"
+            }
+          ],
+          "basis": "text",
+          "note": "Model No. PRSPS0014; UDI-DI: 05407008320836; Serial No. 1000 to 1690."
+        }
+      ],
+      "sold": {
+        "where": "US Nationwide distribution in the state of TX."
+      }
+    }
+  ],
+  "hazards": [],
+  "hazard_text": "Devices with firmware versions 2.3 and lower may experience timing variations between software tasks, which could result in skipping the necessary neutral check and the wheelchair producing unintended movement upon power-up when the joystick is out of neutral.",
+  "severity": {
+    "level": "serious",
+    "source_value": "Class I"
+  },
+  "actions": [],
+  "remedies": [],
+  "firms": [
+    {
+      "name": "mo-Vis BVBA",
+      "role": "recalling_firm"
+    }
+  ],
+  "summary": "IDM-MICRO-R is recalled because it is a safety risk."
+}

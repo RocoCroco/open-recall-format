@@ -1,0 +1,77 @@
+{
+  "orf_version": "0.1",
+  "id": "us-nhtsa:10C005000",
+  "source": {
+    "authority": "US-NHTSA",
+    "id": "10C005000",
+    "url": "https://www.nhtsa.gov/recalls?nhtsaId=10C005000",
+    "retrieved": "2026-10-03T12:00:00Z",
+    "licence": "public-domain-us-gov",
+    "attribution": "Source: U.S. National Highway Traffic Safety Administration (nhtsa.gov)."
+  },
+  "jurisdictions": [
+    "US"
+  ],
+  "language": "en",
+  "published": "2010-10-13",
+  "category": "child_restraint",
+  "title": "Evenflo 310 (MAESTRO): Child Seat recall",
+  "products": [
+    {
+      "name": "Evenflo 310 (MAESTRO)",
+      "brands": [
+        "Evenflo"
+      ],
+      "source_category": "CHILD SEAT",
+      "units": [
+        {
+          "count": 13792,
+          "approximate": false,
+          "country": "US"
+        }
+      ],
+      "scope": "listed_units",
+      "identification": [
+        {
+          "models": [
+            "310 (MAESTRO)",
+            {
+              "prefix": "310"
+            }
+          ],
+          "manufactured": {
+            "from": "2009-11-24",
+            "to": "2010-04-10"
+          },
+          "basis": "structured"
+        }
+      ],
+      "identification_hint": "The model number and date of manufacture are on a label on the side or bottom of the car seat."
+    }
+  ],
+  "hazards": [
+    {
+      "type": "crash"
+    }
+  ],
+  "hazard_text": "EVENFLO IS RECALLING CERTAIN MAESTRO CHILD RESTRAINT SYSTEMS WITH MODEL NUMBERS BEGINNING WITH 310 AND BUILT FROM NOVEMBER 24, 2009, THROUGH APRIL 9, 2010. THESE SEATS FAIL TO CONFORM TO THE STRUCTURAL INTEGRITY REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 213, \"CHILD RESTRAINT SYSTEMS.\" IN THE EVENT OF A CRASH, A CRACK MAY FORM AT THE FRONT OF THE SEAT ADJACENT TO THE HARNESS ADJUSTER CAUSING THE CHILD NOT TO BE ADEQUATELY RESTRAINED, INCREASING THE RISK OF INJURY.",
+  "severity": {
+    "level": "unknown"
+  },
+  "actions": [
+    "contact_firm"
+  ],
+  "remedies": [],
+  "instructions": "EVENFLO WILL PROVIDE OWNERS AND CARE GIVERS A REINFORCEMENT PLATE ALONG WITH REPAIR INSTRUCTIONS FREE OF CHARGE. THE SAFETY RECALL BEGAN ON OCTOBER 15, 2010. OWNERS MAY CONTACT EVENFLO TOLL-FREE AT 1-800-233-5921.",
+  "contact": {
+    "text": "OWNERS MAY ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S VEHICLE SAFETY HOTLINE AT 1-888-327-4236 (TTY 1-800-424-9153), OR GO TO <A HREF=HTTP://WWW.SAFERCAR.GOV>HTTP://WWW.SAFERCAR.GOV</A> .",
+    "phone": "+1-888-327-4236"
+  },
+  "firms": [
+    {
+      "name": "Evenflo Company, Inc.",
+      "role": "manufacturer"
+    }
+  ],
+  "summary": "Evenflo 310 (MAESTRO) is recalled because of a risk of crash. Contact the company."
+}

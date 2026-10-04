@@ -1,0 +1,72 @@
+{
+  "orf_version": "0.1",
+  "id": "us-nhtsa:20V682000",
+  "source": {
+    "authority": "US-NHTSA",
+    "id": "20V682000",
+    "url": "https://www.nhtsa.gov/recalls?nhtsaId=20V682000",
+    "retrieved": "2026-10-03T12:00:00Z",
+    "licence": "public-domain-us-gov",
+    "attribution": "Source: U.S. National Highway Traffic Safety Administration (nhtsa.gov)."
+  },
+  "jurisdictions": [
+    "US"
+  ],
+  "language": "en",
+  "published": "2020-11-04",
+  "category": "vehicle",
+  "title": "Toyota CAMRY: Fuel System, Gasoline:delivery:fuel Pump recall",
+  "products": [
+    {
+      "name": "Toyota CAMRY",
+      "brands": [
+        "Toyota"
+      ],
+      "source_category": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+      "scope": "listed_units",
+      "identification": [
+        {
+          "vehicle": {
+            "make": "Toyota",
+            "model": "CAMRY",
+            "years": {
+              "from": 2020,
+              "to": 2020
+            }
+          },
+          "basis": "structured"
+        }
+      ],
+      "identification_hint": "Check the model year and model on the vehicle registration, or look up the VIN at nhtsa.gov/recalls."
+    }
+  ],
+  "hazards": [
+    {
+      "type": "crash"
+    }
+  ],
+  "hazard_text": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 2018-2020 Lexus ES350, 2017 Lexus GS200t, 2017-2019 Lexus GS350, 2019 Lexus GS300, 2018-2020 Lexus LC500h, 2019-2020 Lexus LS500, 2018-2019 Lexus GX460, 2017 Lexus IS200t, 2019 Lexus IS300, 2019 Lexus IS350, 2018-2020 Lexus LC500, 2018 Lexus LS500, 2019 Lexus LS500h, 2018-2019 Lexus LX570, 2017 Lexus RC200t, 2019 Lexus RC300, RC350, 2017 and 2019-2020 Lexus RX350, 2018-2020 RX350L, 2019 Lexus UX200, 2018-2019 Lexus NX300 vehicles. The low-pressure fuel pump inside the fuel tank may fail. If the fuel pump fails, the engine can stall while driving, increasing the risk of a crash.",
+  "severity": {
+    "level": "unknown"
+  },
+  "actions": [
+    "contact_dealer",
+    "get_repair",
+    "contact_firm"
+  ],
+  "remedies": [
+    "repair"
+  ],
+  "instructions": "Toyota will notify owners, and dealers will replace the fuel pump assembly with an improved one, free of charge. Owners of specific models were notified that remedy parts were available starting January 21, 2021. Owners of other models will be notified as remedy parts become available. Remedy parts should be available for all affected vehicles by late March 2021. Owners may contact Toyota customer service at 1-888-270-9371 or Lexus customer service at 1-800-255-3987. Note: This recall is an expansion of recall 20V-012. Toyota's number for this recall is 20TA02. Lexus' number for this recall is 20LA01.",
+  "contact": {
+    "text": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+    "phone": "+1-888-327-4236"
+  },
+  "firms": [
+    {
+      "name": "Toyota Motor Engineering & Manufacturing",
+      "role": "manufacturer"
+    }
+  ],
+  "summary": "Toyota CAMRY is recalled because of a risk of crash. Contact a dealer and get the free repair."
+}

@@ -1,0 +1,33 @@
+{
+  "vocabulary": "severity",
+  "orf_version": "0.1",
+  "description": "How serious the risk is, as the authority classified it. ORF never infers severity from words like 'death' in the text; when the authority does not classify, the level is `unknown`. `source_values` are compared case-insensitively.",
+  "terms": {
+    "serious": {
+      "label": "Serious",
+      "definition": "Reasonable probability of serious adverse health consequences or death, or a serious risk as defined by the authority.",
+      "source_values": {
+        "US-FDA": ["Class I"],
+        "CA-RSA": ["Type I", "Class 1"],
+        "GB-OPSS": ["serious", "high"],
+        "EU-SAFETY-GATE": ["A12", "serious"],
+        "US-NHTSA": ["parkIt", "parkOutSide"]
+      }
+    },
+    "moderate": {
+      "label": "Moderate",
+      "definition": "May cause temporary or medically reversible adverse health consequences.",
+      "source_values": { "US-FDA": ["Class II"], "CA-RSA": ["Type II", "Class 2"], "GB-OPSS": ["medium"] }
+    },
+    "low": {
+      "label": "Low",
+      "definition": "Not likely to cause adverse health consequences.",
+      "source_values": { "US-FDA": ["Class III"], "CA-RSA": ["Type III", "Class 3"], "GB-OPSS": ["low"] }
+    },
+    "unknown": {
+      "label": "Not classified",
+      "definition": "The authority does not classify this recall, or the classification is missing.",
+      "source_values": { "GB-OPSS": ["not-provided"] }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "open-recall-format",
+  "version": "0.1.0",
+  "description": "An open, owner-side data format for product recalls, with converters for official recall feeds and a reference checker",
+  "author": "Roc Cutal",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RocoCroco/open-recall-format.git"
+  },
+  "homepage": "https://github.com/RocoCroco/open-recall-format#readme",
+  "bugs": {
+    "url": "https://github.com/RocoCroco/open-recall-format/issues"
+  },
+  "type": "module",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "bin": {
+    "orf": "dist/src/cli.js"
+  },
+  "files": [
+    "dist",
+    "schema",
+    "vocab",
+    "spec",
+    "LICENSE",
+    "NOTICE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "vitest run",
+    "examples": "node scripts/build-examples.mjs",
+    "prepublishOnly": "npm run build && npm test"
+  },
+  "keywords": [
+    "recall",
+    "product-safety",
+    "open-data",
+    "cpsc",
+    "nhtsa",
+    "openfda",
+    "safety-gate",
+    "rappelconso",
+    "json-schema"
+  ],
+  "dependencies": {
+    "ajv": "^8.17.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0",
+    "vitest": "^3.2.4"
+  }
+}
