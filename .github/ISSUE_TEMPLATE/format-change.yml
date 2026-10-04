@@ -1,0 +1,25 @@
+name: Change to the format
+description: Propose a new field, vocabulary term or rule for the Open Recall Format
+labels: ["spec"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What can the format not express today, or what does it express wrongly?
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: A real recall that shows it
+      description: Link to the official notice, and paste the relevant part of the source record if you can.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: The field, term or rule you suggest, and how existing records and checkers would be affected.
+    validations:
+      required: true

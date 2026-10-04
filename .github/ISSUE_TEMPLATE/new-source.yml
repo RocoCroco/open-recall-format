@@ -1,0 +1,27 @@
+name: New recall source
+description: Suggest a recall authority or feed to convert
+labels: ["source"]
+body:
+  - type: input
+    id: authority
+    attributes:
+      label: Authority and country
+      placeholder: e.g. ACCC Product Safety Australia
+    validations:
+      required: true
+  - type: input
+    id: data
+    attributes:
+      label: Where the data is published (API, file, website)
+    validations:
+      required: true
+  - type: input
+    id: licence
+    attributes:
+      label: Licence or terms of reuse
+      description: Link to the publisher's terms, so the data can be redistributed with the right attribution.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Identifiers it publishes (models, lots, barcodes ...), quirks you know of.

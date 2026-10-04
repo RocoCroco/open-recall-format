@@ -1,0 +1,38 @@
+name: Wrong conversion or check result
+description: A converter produced a wrong record, or the checker gave a wrong answer
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: source
+    attributes:
+      label: Source
+      options:
+        - US CPSC
+        - US NHTSA
+        - US FDA (openFDA)
+        - Canada Recalls and Safety Alerts
+        - EU Safety Gate
+        - France RappelConso
+        - UK OPSS
+        - Checker (not a converter)
+    validations:
+      required: true
+  - type: input
+    id: recall
+    attributes:
+      label: Recall id or official link
+      placeholder: us-cpsc:25140 or https://...
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong
+      description: The field or result you got, and what the official notice says it should be.
+    validations:
+      required: true
+  - type: textarea
+    id: item
+    attributes:
+      label: Item you checked (only for checker results)
+      description: The owned item, e.g. --brand Govee --name "space heater" --model H7131

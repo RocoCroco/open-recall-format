@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: schema.org discussion of a recall type (issue 3229)
+    url: https://github.com/schemaorg/schemaorg/issues/3229
+    about: For the schema.org ProductRecall proposal, comment in the schema.org thread.
